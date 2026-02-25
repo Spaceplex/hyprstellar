@@ -12,6 +12,7 @@ set cleaner ~/.config/lf/previewer/clear_img.sh
 
 set sortby 'natural'
 set ignorecase true
+set ifs "\n"
 
 setlocal ~/Downloads sortby time
 setlocal ~/Downloads reverse
