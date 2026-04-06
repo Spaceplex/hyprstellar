@@ -59,7 +59,7 @@ inputbar {
     padding:                     5px 5px 250px 5px;
     border-radius:               4px;
     background-color:            transparent;
-    background-image:            url("~/.config/rofi/assets/images/ava.png", width);
+    background-image:            url("~/.config/rofi/assets/images/dox.png", width);
     text-color:                  @foreground;
     orientation:                 horizontal;
     children:                    [ "entry" ];
