@@ -1,0 +1,41 @@
+waybar
+starship
+
+otf-nothing-font-git
+otf-departure-mono
+adobe-source-han-sans-otc-fonts
+ttf-noto-emoji-monochrome
+cliphist
+pywal16
+neovim
+-- nvchad
+
+lf
+-- set up config
+awww
+-- set up
+lsd
+zoxide
+rofi
+fastfetch
+-- config
+swaync
+-- config
+hyprlock
+-- config
+hypridle
+wlogout
+wifimenu
+bluetui
+hyprshot
+wf-recorder
+hyprshade
+
+### Browser
+librewolf-bin
+python-pywalfox-librewolf
+
+### Multimedia
+mpv
+spotify
+spicetify-cli
