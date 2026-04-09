@@ -39,3 +39,8 @@ python-pywalfox-librewolf
 mpv
 spotify
 spicetify-cli
+
+paru -S --needed --noconfirm 
+waybar
+starship
+

@@ -33,6 +33,9 @@ map cp "copy filepath"
 # FZF
 map <c-f> "start fuzzy finder"
 
+# OPEN TERMINAL HERE
+map S "spawn terminal"
+
 # RIPGREP
 map rg ripgrep
 
@@ -49,12 +52,13 @@ map az "create zipfile"
 map ae "extract archive"
 
 # CONVERT FILES
-map v4 "convert to mp4"
-map vv "convert to mkv"
-map vp "convert to png"
-map vj "convert to jpg"
-map vg "convert to gif"
 map v3 "convert to mp3"
+map v4 "convert to mp4"
+map vf "convert to pdf"
+map vg "convert to gif"
+map vj "convert to jpg"
+map vp "convert to png"
+map vv "convert to mkv"
 
 # SHORTCUTS
 map gc cd ~/.config
