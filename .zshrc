@@ -1,19 +1,12 @@
 # Terminal Art
 fastfetch
 
-
-# Load Completions
-
-
-
-# Completions Styling
-
-
-
 # Keybindings
 bindkey -e 
 bindkey '^[[A' history-substring-search-up
 bindkey '^[[B' history-substring-search-down
+
+bindkey -v
 
 # History
 HISTSIZE=1000
